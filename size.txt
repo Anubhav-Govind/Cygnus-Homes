@@ -1,0 +1,8 @@
+Stores the sizes.
+1 BHK
+1 BHK
+3 BHK
+3 BHK
+2 BHK
+2 BHK
+1 BHK
